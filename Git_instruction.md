@@ -143,5 +143,5 @@ git commit --amend -m "Example 4 for user"
 git checkout 3a4fb4
 ```
 
-# **Удачи! :)**
+# **Спасибо за внимание и удачи! :)**
 
